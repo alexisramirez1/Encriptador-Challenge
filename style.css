@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 26px;
+    text-align: center;
+}
+.contenedor-principal{
+    background: #666;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+#tarjeta-1{
+    width: 500px;
+    height: 231px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 9px;
+    display: inline-block;
+    padding: 81px;
+}
+#encriptar{
+    text-transform: uppercase;
+    color: rgb(199, 18, 18);
+    font-size: 22px;
+}
+#desencriptar{
+    text-transform: uppercase;
+    color: rgb(199, 18, 18);
+    font-size: 22px;
+}
+#arjeta-2{
+    width: 500px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 9px;
+    display: inline-block;
+    padding: 81px;
+} 
+#copiar{
+    text-transform: uppercase;
+    color: rgb(199, 18, 18);
+    font-size: 22px;
+    margin: -51px;
+}
+#logo{
+ position: relative;
+ top: -415px;
+ left: -679px;
+ width: 109px;
+ display: inline;
+}
+.parrafo{
+    width: 334px;
+    height: 340px;
+    padding-left: 0px;
+    border-left-width: 0px;
+    border-top-width: 0px; 
+}
+.parrafo2{
+    width: 334px;
+    height: 340px;
+    padding-left: 0px;
+    border-left-width: 0px;
+    border-top-width: 0px; 
+}
